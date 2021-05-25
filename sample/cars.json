@@ -1,0 +1,26 @@
+{
+    "cars1": {
+        "id": 1,
+        "brand": "toyota",
+        "color": "white",
+        "qty": 40
+    },
+    "cars2": {
+        "id": 2,
+        "brand": "hyundai",
+        "color": "silver",
+        "qty": 10
+    },
+    "cars3": {
+        "id": 3,
+        "brand": "ferrari",
+        "color": "red",
+        "qty": 5
+    },
+    "cars4": {
+        "id": 4,
+        "brand": "mazda",
+        "color": "blue",
+        "qty": 30
+    }
+}
